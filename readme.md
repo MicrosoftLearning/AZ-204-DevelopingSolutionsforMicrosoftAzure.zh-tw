@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: a0384c399e26652e2516e9e6a16b6b892cd0e8b0
-ms.sourcegitcommit: 59c540737d0d7c14e6b56805afed30f1df1561f8
+ms.openlocfilehash: 40d663462e7e48bf5baeb118e1da99d4ebf89c86
+ms.sourcegitcommit: b3c9969e988713afd5bfcfa551d5986d914edf2e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "145196042"
+ms.lasthandoff: 06/23/2022
+ms.locfileid: "146565017"
 ---
 # <a name="az-204-developing-solutions-for-microsoft-azure"></a>AZ-204：開發 Microsoft Azure 的解決方案
 
@@ -15,6 +15,7 @@ ms.locfileid: "145196042"
 - **引導學生** 至 [https://aka.ms/az204labs](https://aka.ms/az204labs)，取得易於使用的實驗指示清單。
 - **您是 MCT 嗎？** 請參閱我們專為 MCT 準備的 [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/) (適用於 MCT 的 GitHub 使用者指南)
 - **需要手動建立實驗室指示嗎？** - [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) 存放庫中備有指示 
+- 已新增[專案](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure/projects/1)來追蹤問題/PR 的進度。
 
 ## <a name="security-issue---february-2022"></a>安全性問題 - 2022 年 2 月
 
