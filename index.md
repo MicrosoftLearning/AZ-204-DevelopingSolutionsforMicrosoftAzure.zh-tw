@@ -11,7 +11,7 @@ ms.locfileid: "145196050"
 ---
 ## <a name="content-directory"></a>內容目錄
 
-下列是每個實驗的超連結。
+下列是每個實驗室的超連結。
 
 ## <a name="labs"></a>實驗室
 

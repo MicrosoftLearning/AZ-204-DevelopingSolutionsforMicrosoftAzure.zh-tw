@@ -12,7 +12,7 @@ ms.locfileid: "145196125"
 
 | 軟體 | 連結 |
 | --- | --- |
-| Windows 10 (組建 2004) | <https://www.microsoft.com/software-download/windows10> |
+| Windows 10 (版本 2004) | <https://www.microsoft.com/software-download/windows10> |
 | Visual Studio Code | <https://code.visualstudio.com> |
 | Visual Studio Code Azure 帳戶延伸模組 | <https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account> |
 | Visual Studio Code Azure Functions 延伸模組 | <https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions> |
