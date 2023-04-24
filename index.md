@@ -13,10 +13,17 @@ ms.locfileid: "145196050"
 
 下列是每個實驗室的超連結。
 
-## <a name="labs"></a>實驗室
+## <a name="labs"></a>演示
 
 {% assign labs = site.pages | where_exp: "page", "page.url contains '/Instructions/Labs'" %}
 | 模組 | 實驗室 |
 | --- | --- |
 {% for activity in labs  %}{% if activity.lab.az204Module %}| {{ activity.lab.az204Module }} | [{{ activity.lab.az204Title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endif %}{% endfor %}
+
+## <a name="demos"></a>
+{% assign demos = site.pages | where_exp:"page", "page.url contains '/Instructions/Demos'" %}
+| 模組 | 演示 |
+| --- | --- | 
+{% for activity in demos  %}| {{ activity.demo.az204Module }} | [{{ activity.demo.az204Title }}]({{ site.github.url }}{{ activity.url }}) |
+{% endfor %}
